@@ -3,3 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.box {
+  background-color: #fff75a;
+  height: 130px;
+  display: flex;
+  flex-wrap: wrap;
+}
